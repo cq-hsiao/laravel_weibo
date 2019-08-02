@@ -3247,6 +3247,10 @@ last-call-webpack-plugin@^3.0.0:
     lodash "^4.17.5"
     webpack-sources "^1.1.0"
 
+layer@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/layer/-/layer-0.1.0.tgz#76f8abcceec27f0fafb6c523627749c6b4ec8a1c"
+
 lcid@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/lcid/-/lcid-2.0.0.tgz#6ef5d2df60e52f82eb228a4c373e8d1f397253cf"
